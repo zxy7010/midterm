@@ -11,6 +11,6 @@ int main()
             max=a;
         }
     }
-    printf("The max is %u\a",max);
+    printf("The max is %u\n",max);
     return 0;
 }    
